@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("this is new string for jenkins");
+        System.out.println("this is new string for 3 change");
     }
 
     public String getMessage() {
