@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("this is new string for new day");
+        System.out.println("this is new string for new day 2");
     }
 
     public String getMessage() {
